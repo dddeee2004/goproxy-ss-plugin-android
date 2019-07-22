@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.shadowsocks.plugin.goproxy"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Shadowsocks" >
+        <provider
+            android:name="com.github.shadowsocks.plugin.goproxy.BinaryProvider"
+            android:authorities="$FULLY_QUALIFIED_NAME_OF_YOUR_CONTENTPROVIDER"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.github.shadowsocks.plugin.ACTION_NATIVE_PLUGIN" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.github.shadowsocks.plugin.ACTION_NATIVE_PLUGIN" />
+
+                <data
+                    android:host="com.github.shadowsocks"
+                    android:pathPrefix="/goproxy"
+                    android:scheme="plugin" />
+            </intent-filter>
+
+            <meta-data
+                android:name="com.github.shadowsocks.plugin.id"
+                android:value="goproxy" />
+            <meta-data
+                android:name="com.github.shadowsocks.plugin.default_config"
+                android:value="-S socks -T ws -h aes-256-cfb -j 123" />
+        </provider>
+
+        <meta-data
+            android:name="com.github.shadowsocks.plugin.version"
+            android:value="0.1.0" />
+    </application>
+
+</manifest>

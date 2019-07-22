@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4e742fe13affbfbe1b3203e05ce3d42c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/182688f0f6b2399521dc7195caef65bd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e24c5a1e2218364c971f274db41a09f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/b5ffa3af02e68bcd3d5be5ba293b737a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/f3ed85e367ed2b4f87486086502ff917/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/578d1636a8344c7decf6e6be70451ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/6aef5e469828d81128f365d8527c6f25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/17669a9ebbf278b972c965e91a63e476/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e2543e956ff3f8cb47152bffbebbd7ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/7495aa92945b093ff6b8426f0b491b0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/f4c235d1afe1d60e25e24b9ff8362a06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/0c5c1abd5003f36e932e325b2d995668/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c973ebcf483be6d4dc75d99e6dc60362/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4512b307885daf39857eb17d89a04512/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ea007c2b3570214e9089a9673a3ef113/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/64611e64cc5813146c5dcae9bedd30b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/15e11c83a73b2afd2df90ce7faa2aff0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e3b5061c0e4855370922994883c183b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/539642633b68b601e9a89a7183a504c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/49d89cc9896c4fe19843fd1b60df9eaf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c6de8a484774fa649d0e8e32e4bed999/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/48290edb1810be1d8d707a8c2dc89818/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/aa1cbc9fa27d3c26c9941a798692ab21/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc883b644fe2a228656d697b6ce130/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c40dff5feed03c711a10e17a21a9640c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ce44432fb31a8499fb8684656abc8511/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/3aabaf3e55941b1370757f38c108d287/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4c7b77e26263e2eb8e9f2938709c6c64/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/8262e31152d70d407e8b4b7341d77f8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ae6f7400cec4f88005669a6ba8a8c40d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/b49c6a90bc00bcdcf89a2491f8624440/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/3b6c9d12be3462196448d48a9155084d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:2:5-52
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:4:5-27:19
+MERGED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/182688f0f6b2399521dc7195caef65bd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/182688f0f6b2399521dc7195caef65bd/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/49d89cc9896c4fe19843fd1b60df9eaf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/49d89cc9896c4fe19843fd1b60df9eaf/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/48290edb1810be1d8d707a8c2dc89818/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/48290edb1810be1d8d707a8c2dc89818/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/49d89cc9896c4fe19843fd1b60df9eaf/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:11:18-58
+provider#com.github.shadowsocks.plugin.goproxy.BinaryProvider
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:10:9-26:20
+	android:authorities
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:12:19-86
+	android:exported
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:11:19-42
+	android:name
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:10:19-49
+intent-filter#action:name:com.github.shadowsocks.plugin.ACTION_NATIVE_PLUGIN
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:13:13-15:29
+action#com.github.shadowsocks.plugin.ACTION_NATIVE_PLUGIN
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:14:17-92
+	android:name
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:14:25-90
+intent-filter#action:name:com.github.shadowsocks.plugin.ACTION_NATIVE_PLUGIN+data:host:com.github.shadowsocks+data:pathPrefix:/goproxy+data:scheme:plugin
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:16:13-21:29
+data
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:18:17-20:54
+	android:host
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:19:23-60
+	android:scheme
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:18:23-46
+	android:pathPrefix
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:20:23-52
+meta-data#com.github.shadowsocks.plugin.id
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:22:13-23:49
+	android:value
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:23:24-47
+	android:name
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:22:24-71
+meta-data#com.github.shadowsocks.plugin.default_config
+ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:24:13-25:78
+	android:value
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:25:24-76
+	android:name
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml:24:24-83
+uses-sdk
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+MERGED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4e742fe13affbfbe1b3203e05ce3d42c/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4e742fe13affbfbe1b3203e05ce3d42c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/182688f0f6b2399521dc7195caef65bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/182688f0f6b2399521dc7195caef65bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e24c5a1e2218364c971f274db41a09f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e24c5a1e2218364c971f274db41a09f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/b5ffa3af02e68bcd3d5be5ba293b737a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/b5ffa3af02e68bcd3d5be5ba293b737a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/f3ed85e367ed2b4f87486086502ff917/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/f3ed85e367ed2b4f87486086502ff917/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/578d1636a8344c7decf6e6be70451ee9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/578d1636a8344c7decf6e6be70451ee9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/6aef5e469828d81128f365d8527c6f25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/6aef5e469828d81128f365d8527c6f25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/17669a9ebbf278b972c965e91a63e476/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/17669a9ebbf278b972c965e91a63e476/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e2543e956ff3f8cb47152bffbebbd7ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e2543e956ff3f8cb47152bffbebbd7ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/7495aa92945b093ff6b8426f0b491b0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/7495aa92945b093ff6b8426f0b491b0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/f4c235d1afe1d60e25e24b9ff8362a06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/f4c235d1afe1d60e25e24b9ff8362a06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/0c5c1abd5003f36e932e325b2d995668/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/0c5c1abd5003f36e932e325b2d995668/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c973ebcf483be6d4dc75d99e6dc60362/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c973ebcf483be6d4dc75d99e6dc60362/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4512b307885daf39857eb17d89a04512/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4512b307885daf39857eb17d89a04512/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ea007c2b3570214e9089a9673a3ef113/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ea007c2b3570214e9089a9673a3ef113/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/64611e64cc5813146c5dcae9bedd30b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/64611e64cc5813146c5dcae9bedd30b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/15e11c83a73b2afd2df90ce7faa2aff0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/15e11c83a73b2afd2df90ce7faa2aff0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e3b5061c0e4855370922994883c183b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/e3b5061c0e4855370922994883c183b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/539642633b68b601e9a89a7183a504c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/539642633b68b601e9a89a7183a504c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/49d89cc9896c4fe19843fd1b60df9eaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/49d89cc9896c4fe19843fd1b60df9eaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c6de8a484774fa649d0e8e32e4bed999/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c6de8a484774fa649d0e8e32e4bed999/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/48290edb1810be1d8d707a8c2dc89818/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/48290edb1810be1d8d707a8c2dc89818/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/aa1cbc9fa27d3c26c9941a798692ab21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/aa1cbc9fa27d3c26c9941a798692ab21/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc883b644fe2a228656d697b6ce130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc883b644fe2a228656d697b6ce130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c40dff5feed03c711a10e17a21a9640c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c40dff5feed03c711a10e17a21a9640c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ce44432fb31a8499fb8684656abc8511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ce44432fb31a8499fb8684656abc8511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/3aabaf3e55941b1370757f38c108d287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/3aabaf3e55941b1370757f38c108d287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4c7b77e26263e2eb8e9f2938709c6c64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/4c7b77e26263e2eb8e9f2938709c6c64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/8262e31152d70d407e8b4b7341d77f8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/8262e31152d70d407e8b4b7341d77f8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ae6f7400cec4f88005669a6ba8a8c40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/ae6f7400cec4f88005669a6ba8a8c40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/b49c6a90bc00bcdcf89a2491f8624440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/b49c6a90bc00bcdcf89a2491f8624440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/3b6c9d12be3462196448d48a9155084d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/3b6c9d12be3462196448d48a9155084d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mingxiali/Documents/Project/Android/goproxyplugin/goproxy-ss-plugin-android/app/src/main/AndroidManifest.xml
+meta-data#com.github.shadowsocks.plugin.version
+ADDED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.github.shadowsocks:plugin:1.2.0] /Users/mingxiali/.gradle/caches/transforms-2/files-2.1/c1dc9f82d163a21b66f062cfcd3e7a90/AndroidManifest.xml:13:13-65
